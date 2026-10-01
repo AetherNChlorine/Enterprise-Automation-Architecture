@@ -7,7 +7,7 @@ This repository serves as a technical portfolio detailing the architecture of pr
 ## 1. Autonomous Enterprise RPA Engine
 
 **The Business Context**
-Deployed across a 50-branch enterprise network, this 11,000-line autonomous RPA system replaced a massive manual data-entry bottleneck. By completely automating this workflow, the system generates over £6,700/month in direct operational savings.
+Deployed across a 60+-branch enterprise network, this 11,000-line autonomous RPA system replaced a massive manual data-entry bottleneck. By completely automating this workflow, the system generates over £6,700/month in direct operational savings.
 
 **The Architecture**
 Operating within a locked-down, legacy thick-client application devoid of public APIs, the system bypasses traditional, brittle DOM interactions.
